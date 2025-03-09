@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555705575158",
+    "project_id": "suocla-video-lms",
+    "storage_bucket": "suocla-video-lms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555705575158:android:470f57f6ed1ae8f20feed7",
+        "android_client_info": {
+          "package_name": "com.scuola.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNaa8h4AhFJE5kTYOM5N4WMbiSlKoCdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
